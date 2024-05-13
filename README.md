@@ -59,6 +59,11 @@ In particular, you will need to:
 All this is described in the [WorkAdventure documentation](https://github.com/thecodingmachine/workadventure/#designing-a-map).
 Please be sure to check it out. 
 
+
+### Kudos 
+
+thanks to https://github.com/Kaetherina 
+
 ### Pushing the map
 
 When your changes are ready, you need to "commit" and "push" the changes back to GitHub.
